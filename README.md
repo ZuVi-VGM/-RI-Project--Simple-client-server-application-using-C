@@ -1,5 +1,5 @@
 # Documentazione Progetto Reti Informatiche 2022/2023
-
+.
 Il paradigma scelto per l’applicazione è ovviamente quello client server, dove il server,
 interagendo con tre tipi differenti di client, gestisce il complesso delle strutture dati utili a
 realizzare l’astrazione di un ristorante.
